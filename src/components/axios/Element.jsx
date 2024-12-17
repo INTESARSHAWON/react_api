@@ -14,7 +14,7 @@ export default function Element() {
 
   return (
     <div>
-      <h1>Get quotes using fetch API</h1>
+      <h1>Get quotes using axios API</h1>
       <div>{quote?.fact}</div>
     </div>
   );
